@@ -16,6 +16,7 @@ var numberStudents = 20
 var stringTeachers = "4"
 var numberDogs = 0
 
+
 // EXAMPLE: log the result of the comparison: is numberTeachers greater than numberStudents?
 console.log("Is numberTeachers greater than numberStudents?", numberTeachers > numberStudents);
 // this should log: "Is numberTeachers greater than numberStudents?" false
